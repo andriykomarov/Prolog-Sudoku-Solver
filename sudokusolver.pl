@@ -1,7 +1,5 @@
 /* ----------- cut here ----------- */
 
-/* Name: Andriy Komarov and ID: 91841810 */
-
 /* This runs all the simple tests. If it 
 works correctly, you should see three identical 
 and completed sudoku tables, and finally the 
